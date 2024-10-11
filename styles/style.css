@@ -15,6 +15,7 @@
   align-items: center;
   margin: 0;
   background-color: #f2f2f2;
+  overflow: hidden;
 }
 
 .page__header {
@@ -201,6 +202,10 @@
   align-items: center;
 }
 
+.page__feynman {
+  margin-bottom: 100px;
+}
+
 .feynman__title {
   line-height: 1.15;
   font-size: 120px;
@@ -293,11 +298,6 @@
   flex-basis: 711px;
 }
 
-.logo_place_footer {
-  width: 228px;
-  height: 32px;
-}
-
 .footer__author {
   margin: 18px 0 18px 0;
   line-height: 25px;
@@ -331,4 +331,18 @@
   width: 16px;
   height: 16px;
   margin-right: 10px;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rotation {
+  animation: rotation 20s infinite linear;
 }
