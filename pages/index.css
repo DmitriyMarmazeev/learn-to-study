@@ -16,9 +16,6 @@
   margin: 0;
   background-color: #f2f2f2;
   overflow: hidden;
-}
-
-.page__header {
   margin-bottom: 100px;
 }
 
@@ -84,9 +81,6 @@
 .description {
   display: flex;
   justify-content: center;
-}
-
-.page__description {
   margin-bottom: 100px;
 }
 
@@ -96,9 +90,6 @@
   align-items: center;
   width: 80%;
   margin: 0 auto;
-}
-
-.page__techniques {
   margin-bottom: 100px;
 }
 
@@ -159,9 +150,6 @@
   background-color: #f2f2f2;
   display: flex;
   justify-content: center;
-}
-
-.page__oakley {
   padding: 160px 0 100px 0;
 }
 
@@ -273,9 +261,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-.page__digits {
   margin-bottom: 100px;
 }
 
@@ -338,9 +323,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-.page__feynman {
   margin-bottom: 100px;
 }
 
@@ -379,9 +361,6 @@
   flex-direction: column;
   align-items: center;
   overflow: hidden;
-}
-
-.page__kaufman {
   padding: 90px 0;
 }
 
@@ -475,9 +454,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-.page__resources {
   margin: 100px 0 217px 0;
 }
 
