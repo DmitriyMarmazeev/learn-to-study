@@ -253,8 +253,10 @@
 }
 
 .khan__book-pic {
-  width: 608px;
-  height: 620px;
+  width: 620px;
+  height: 608px;
+  object-fit: cover;
+  object-position: 0 0;
 }
 
 .khan__buy-link {
