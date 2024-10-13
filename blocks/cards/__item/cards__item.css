@@ -1,1 +1,5 @@
-.cards__item {}
+.cards__item {
+    list-style-type: none;
+    width: min-content;
+    text-align: center;
+  }

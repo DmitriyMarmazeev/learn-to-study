@@ -1,1 +1,9 @@
-.khan__buy-link {}
+.khan__buy-link {
+    margin-left: 48px;
+    color: #2f80ed;
+    text-decoration: none;
+    height: min-content;
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+  }

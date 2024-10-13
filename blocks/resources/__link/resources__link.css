@@ -1,1 +1,4 @@
-.resources__link {}
+.resources__link {
+    text-decoration: none;
+    font-size: 0;
+  }
